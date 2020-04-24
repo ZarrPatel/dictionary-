@@ -1,0 +1,12 @@
+dict = {
+    "Lenovo": "Laptop",
+    "HP": "Mouse",
+    "Sony": "Display",
+    "cello": "pen"
+}
+print("original dictionary")
+print(dict)
+del dict["cello"]
+print("after deleting value: ")
+print (dict)
+
