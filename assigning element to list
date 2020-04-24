@@ -1,0 +1,6 @@
+prime=[2,3,5,7,11]
+name=["John", "Dom", "Han"]
+print(prime)
+print(name)
+print(prime+name)
+
